@@ -2,7 +2,7 @@
   "version": 7,
   "updated_at": "2026-11-15T10:00:00Z",
   "streamers": [
-    { "username": "lydiaviolet", "favorite": true, "make_predictions": false },
+    { "username": "elxokas", "favorite": true, "make_predictions": false },
     { "username": "akuasmr" },
     { "username": "ibai", "chat": "ONLINE", "points_limit": 500000 }
   ],
